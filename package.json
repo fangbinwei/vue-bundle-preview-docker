@@ -1,0 +1,13 @@
+{
+  "name": "vue-bundle-preview-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fangbinwei <fangbinwei@yeah.net>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dockerode": "^2.5.27",
+    "dockerode": "^3.2.0",
+    "ip": "^1.1.5",
+    "portfinder": "^1.0.25"
+  }
+}
